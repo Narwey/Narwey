@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm BENMBARK Anouar</h1>
 <h3 align="center">a passionate Full Stack Developer with a knack for solving complex problems and crafting innovative web solutions.</h3>
 
-- 🔭 I’m currently working with **Php Laravel and MERN Stack**
+- 🔭 I’m a Junior web developer working with MERN Stack and PHP Laravel.
 
-- 🌱 I’m currently learning **Angular.js and springboot**
+- 🌱 ’m currently pursuing my master's degree in Big Data and Cloud Computing.
 
 - 👨‍💻 Some of my projects are available at [https://anouar-portfolio.netlify.app/](https://anouar-portfolio.netlify.app/)
 
