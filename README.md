@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Junior web developer working with MERN Stack and PHP Laravel.
 
-- 🌱 ’m currently pursuing my master's degree in Big Data and Cloud Computing.
+- 🌱 I’m currently pursuing my master's degree in Big Data and Cloud Computing.
 
 - 👨‍💻 Some of my projects are available at [https://anouar-portfolio.netlify.app/](https://anouar-portfolio.netlify.app/)
 
