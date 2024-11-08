@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BENMBARK Anouar</h1>
 <h3 align="center">a passionate Full Stack Developer with a knack for solving complex problems and crafting innovative web solutions.</h3>
 
-- 🔭 I’m a Junior web developer working with MERN Stack and PHP Laravel.
+- 🔭 I’m a Junior web developer working with MERN Stack and PHP Laravel/Vue.js.
 
 - 🌱 I’m currently pursuing my master's degree in Big Data and Cloud Computing.
 
