@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm BENMBARK Anouar</h1>
-<h3 align="center">a passionate Full Stack Developer with a knack for solving complex problems and crafting innovative web solutions.</h3>
+# Anouar Benmbark
 
-- 🔭 I’m a Junior web developer working with MERN Stack and PHP Laravel/Vue.js.
+**Junior Data Engineer · Microsoft Certified (DP-700) · Casablanca, Maroc**
 
-- 🌱 I’m currently pursuing my master's degree in Big Data and Cloud Computing.
+Spécialisé dans la conception d'architectures Lakehouse et de pipelines de données incrémentaux sur Microsoft Fabric, Azure et GCP. Modélisation dimensionnelle Kimball, traitements PySpark à grande échelle, synchronisation via API REST OData.
 
-- 👨‍💻 Some of my projects are available at [https://anouar-portfolio.netlify.app/](https://anouar-portfolio.netlify.app/)
+## Actuellement
 
-- 📫 How to reach me **benmbark.anouar@gmail.com**
+- Conception et déploiement d'une plateforme Lakehouse Medallion sur Microsoft Fabric pour un opérateur logistique 3PL (PFE chez Anfa Solutions, Microsoft Gold Partner)
+- Finalisation du Master Big Data & Cloud Computing — FSAC, Université Hassan II (septembre 2026)
+- Disponible en CDI à partir d'août 2026 — postes Data Engineer / Analytics Engineer Junior
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anouar ben mbark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anouar ben mbark" height="30" width="40" /></a>
-</p>
+## Stack technique
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Cloud & Data Platforms** — Microsoft Fabric (Lakehouse, Notebooks, Dataflow Gen2, Direct Lake) · Azure (Data Factory, Data Lake, Databricks) · Google Cloud Platform (BigQuery, Dataflow, Cloud Storage)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narwey&show_icons=true&locale=en&layout=compact" alt="narwey" /></p>
+**Traitement & Programmation** — Python · PySpark · Spark SQL · pandas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narwey&show_icons=true&locale=en" alt="narwey" /></p>
+**Modélisation & BI** — Kimball Star Schema · Architecture Medallion (Bronze / Silver / Gold) · Power BI / DAX
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narwey&" alt="narwey" /></p>
+**Orchestration** — Apache Airflow · Azure Data Factory
+
+**Stockage & SQL** — Delta Lake · PostgreSQL · SQL Server · BigQuery
+
+**DevOps** — Git · Docker · GitHub Actions · GitLab CI/CD
+
+## Projets
+
+*Mes projets publics sont en cours de mise en ligne. Une refonte open-source de mon PFE Lakehouse (stack Postgres + dbt + Airflow) est en préparation.*
+
+## Certifications
+
+- **Microsoft Certified: Data Engineer Associate (DP-700)** — 2026
+
+## Me contacter
+
+- **LinkedIn** — [linkedin.com/in/AnouarBen](https://linkedin.com/in/AnouarBen)
+- **Email** — benmbark.anouar@gmail.com
