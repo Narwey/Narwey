@@ -32,4 +32,3 @@ Spécialisé dans la conception d'architectures Lakehouse et de pipelines de don
 
 - **LinkedIn** — [linkedin.com/in/AnouarBen](https://linkedin.com/in/AnouarBen)
 - **Email** — benmbark.anouar@gmail.com
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narwey&show_icons=true&locale=en&layout=compact" alt="narwey" /></p>
