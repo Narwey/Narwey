@@ -24,10 +24,6 @@ Spécialisé dans la conception d'architectures Lakehouse et de pipelines de don
 
 **DevOps** — Git · Docker · GitHub Actions · GitLab CI/CD
 
-## Projets
-
-*Mes projets publics sont en cours de mise en ligne. Une refonte open-source de mon PFE Lakehouse (stack Postgres + dbt + Airflow) est en préparation.*
-
 ## Certifications
 
 - **Microsoft Certified: Data Engineer Associate (DP-700)** — 2026
@@ -36,3 +32,4 @@ Spécialisé dans la conception d'architectures Lakehouse et de pipelines de don
 
 - **LinkedIn** — [linkedin.com/in/AnouarBen](https://linkedin.com/in/AnouarBen)
 - **Email** — benmbark.anouar@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narwey&show_icons=true&locale=en&layout=compact" alt="narwey" /></p>
